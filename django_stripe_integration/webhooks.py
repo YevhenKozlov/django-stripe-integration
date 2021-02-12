@@ -1,4 +1,4 @@
-from djstripe import webhooks
+# from djstripe import webhooks
 
 
 # Example:
